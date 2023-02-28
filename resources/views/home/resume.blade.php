@@ -49,71 +49,20 @@
 										</div>
 
 										<!-- resume item -->
+										<!-- resume item -->
 										<div class="resume-item">
-											<div class="name">Backend Developer and Support Database </div>
-											<div class="date" style="color: #fff;">Juli 2020 - Now <span>|</span> PT. KUANTUM SOLUSI TEKNOLOGI</div>
-											<!-- <table class="table">
-												<tr>
-													<td>2020</td>
-													<td> : </td>
-													<td> Backend Developer Sisforen TNI AD (Sistem Informasi Perencanaan Angkatan Darat) </td>
-												</tr>
-											</table> -->
-											<!-- <p>Backend Developer</p>
-											<p>Backend Developer Sisforen TNI AD (Sistem Informasi Perencanaan Angkatan Darat)</p> -->
-
-											<!-- <p style="color: white">1. Backend Developer and Front end Developer SISFOREN (Sisfo Perencanaan TNI AD)</p>
-											<p style="margin-left : 13px;"> - Troubleshooting debugging and developing new modules for software</p>
-											<p style="margin-left : 13px;"> - Become a trainer using the application</p>
-
-											<p style="color: white">2. Full Stack Developer SISPORUPAT (Sistem Informasi Ruang Rapat TNI AD)</p> -->
-											<!-- <p style="margin-left : 13px;">Sebagai Full Stack Developer Sistem Informasi Smart Meeting Room TNI AD menggunakan golang sebagai Backendnya dan laravel sebagai Frontend nya</p> -->
-<!-- 
-											<p style="color: white">3. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Pamungkas TNI AD menggunakan Laravel</p>
-
-											<p style="color: white">4. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Lapor Korem 132/Tadulako untuk satuan Korem 132/Tadulako menggunakan Laravel</p>
-
-											<p style="color: white">5. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Pengajuan Cuti,Kredit Bank,Kredit Rumah untuk satuan Korem 132/Tadulako Menggunakan Laravel</p>
-
-											<p style="color: white">6. Backend Developer</p>
-											<p style="margin-left : 13px;">Sebagai Backend Developer Sistem Informasi Brawijaya Siaga menggunakan Node Js sebagai Backendnya</p>
-
-											<p style="color: white">7. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Laporan Kodam V Brawijaya menggunaan Laravel</p>
+											<div class="name">Backend Developer and Fullstack Developer </div>
+											<div class="date" style="color: #fff;">Juni 2020 - Juli 2022 <span>|</span> PT. KUANTUM SOLUSI TEKNOLOGI</div>
 											
-											<p style="color: white">8. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Lapor Ndan untuk satuan Menzikon Pusziad menggunakan Laravel</p>
-
-											<p style="color: white">9. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Pengajuan Cuti,Kredit Bank,Rumah dan Izin Jalan untuk satuan Menzikon Pusziad Menggunakan Laravel</p>
-										
-											<p style="color: white">10. Full Stack Developer</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Pengajuan Cuti dan Izin Jalan untuk satuan Kodam XVIII Kasuari Menggunakan Laravel</p>
-
-											<p style="color: white">11. Helper Database</p>
-											<p style="margin-left : 13px;">Sebagai Helper database Project Sistem Informasi JM-CLICK untuk jasa marga. Databasenya menggunakan Postgere Sql</p> -->
-
 										</div>
-										<!-- <div class="resume-item">
-											<div class="name">Part Time dan Tenaga Ahli Dinas SDA Jakarta</div>
-											<div class="date" style="color: #fff;">2021</div>
 										
-											<p style="color: white">1. Fullstack Developer (Dinas SDA Jakarta)</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web Dinas Sumber Daya Air Jakarta menggunakan Laravel</p>
+										<!-- resume item -->
+										<div class="resume-item">
+											<div class="name">Fullstack Developer </div>
+											<div class="date" style="color: #fff;">Agustus 2022 - Sekarang <span>|</span> PT. Kesan Digital Nusantara</div>
 											
-											<p style="color: white">2. Pengembangan Aplikasi (Dinas SDA Jakarta)</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer untuk mengembangkan Web Portal Data Dinas Sumber Daya Air Jakarta menggunakan Node Js </p>
-
-											<p style="color: white">3. Pengembangan Aplikasi (Dinas SDA Jakarta)</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer untuk mengembangkan Web E-Monik Dinas Sumber Daya Air Jakarta menggunakan Codeigniter </p>
-
-											<p style="color: white">3. Full Stack Developer (SMK INFOKOM BOGOR)</p>
-											<p style="margin-left : 13px;">Sebagai Full Stack Developer Web SMK INFOKOM BOGOR menggunakan Laravel</p>
-										</div> -->
-
+										</div>
+										
 
 									</div>
 								</div>
@@ -235,6 +184,31 @@
 											<p style="margin-left : 13px;">- Become a Fullstack Developer using laravel</p>										
 										</div>
 
+										 <!-- resume item -->
+										 <div class="resume-item">
+											<div class="name">Monitoring SPALD Dinas Sumber Daya Air Jakbar</div>
+											<p style="margin-left : 13px;">- Become a Fullstack Developer using laravel</p>										
+										</div>
+
+
+                                        <!-- resume item -->
+										<div class="resume-item">
+											<div class="name">EPPID Pussenkav</div>
+											<p style="margin-left : 13px;">- Become a Fullstack Developer using laravel</p>										
+										</div>
+
+										<!-- resume item -->
+										<div class="resume-item">
+											<div class="name">KESAN APP </div>
+											<p style="margin-left : 13px;">
+                                                - Become a Frontend Developer using laravel <br>
+                                                - Become a Backend mobile and web using golang <br>
+                                                - Deploy applications using kubernetes and docker <br>
+                                                - Maintenance backend and frontend of kesan applications
+                                            </p>										
+										</div>
+
+
 
 
 									</div>
@@ -267,7 +241,13 @@
 												<div class="name">Laravel</div>
 											</li>
 											<li> 
-												<div class="name">GO FIBER (GOLANG)</div>
+												<div class="name">Go Fiber (Golang)</div>
+											</li>
+											<li> 
+												<div class="name">Gin Gonic (Golang)</div>
+											</li>
+											<li> 
+												<div class="name">Echo (Golang)</div>
 											</li>
 											<li>
 												<div class="name">EXPRESS JS</div>
@@ -305,6 +285,19 @@
 											<li>
 												<div class="name">PYTHON</div>
 											</li>
+											<li>
+												<div class="name">Docker</div>
+											</li>
+											<li>
+												<div class="name">Kubernetes</div>
+											</li>
+											<li>
+												<div class="name">Rabbit Mq</div>
+											</li>
+											<li>
+												<div class="name">Redis</div>
+											</li>
+										</ul>
 										</ul>
 									</div>
 

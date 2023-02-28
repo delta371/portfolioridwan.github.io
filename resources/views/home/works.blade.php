@@ -323,12 +323,12 @@
 								<div class="col col-m-12 col-t-6 col-d-6 col-d-lg-6 grid-item design">
 									<div class="box-item card-box">
 										<div class="image">
-											<a href="#popup-sopgamas" class="has-popup-media">
+											<a  class="has-popup-media">
 												<img src="{{asset('project/sopgamas/sopgamas.png')}}" alt="">
 											</a>
 										</div>
 										<div class="desc">
-											<a href="#popup-sopgamas" class="name has-popup-media">SOP GAMAS KOREM 041</a>
+											<a  class="name has-popup-media">SOP GAMAS KOREM 041</a>
 											<div class="category">Web Application</div>
 										</div>							
 										@include('home.popup.sopgamas')
@@ -348,7 +348,62 @@
 										@include('home.popup.infokom')
 									</div>
 								</div>
-
+								<div class="col col-m-12 col-t-6 col-d-6 col-d-lg-6 grid-item design">
+									<div class="box-item card-box">
+										<div class="image">
+											<a  class="has-popup-media">
+												<img src="{{asset('project/jasamarga.jpeg')}}" alt="">
+											</a>
+										</div>
+										<div class="desc">
+											<a class="name has-popup-media">Jasa Marga </a>
+											<div class="category">Web Application</div>
+										</div>							
+										
+									</div>
+								</div>
+								<div class="col col-m-12 col-t-6 col-d-6 col-d-lg-6 grid-item design">
+									<div class="box-item card-box">
+										<div class="image">
+											<a  class="has-popup-media">
+												<img src="{{asset('project/monitoringspald.jpeg')}}" alt="">
+											</a>
+										</div>
+										<div class="desc">
+											<a class="name has-popup-media">Monitoring SPALD</a>
+											<div class="category">Web Application</div>
+										</div>							
+										
+									</div>
+								</div>
+								<div class="col col-m-12 col-t-6 col-d-6 col-d-lg-6 grid-item design">
+									<div class="box-item card-box">
+										<div class="image">
+											<a  class="has-popup-media">
+												<img src="{{asset('project/eppidpussenkav.jpeg')}}" alt="">
+											</a>
+										</div>
+										<div class="desc">
+											<a class="name has-popup-media">EPPID Pussenkav</a>
+											<div class="category">Web Application</div>
+										</div>							
+										
+									</div>
+								</div>
+								<div class="col col-m-12 col-t-6 col-d-6 col-d-lg-6 grid-item design">
+									<div class="box-item card-box">
+										<div class="image">
+											<a  class="has-popup-media">
+												<img src="{{asset('project/webkesan.jpeg')}}" alt="">
+											</a>
+										</div>
+										<div class="desc">
+											<a class="name has-popup-media">Web Kesan</a>
+											<div class="category">Web Application</div>
+										</div>							
+										
+									</div>
+								</div>
 
 
 								
